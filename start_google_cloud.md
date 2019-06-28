@@ -3,7 +3,7 @@
 sssh lu_zhao@xx.xxx.xx.xxx -L 7999:localhost:7999
 ```
 
-2.download anaconda for python3.7 from webset
+2.download anaconda for python3.7 from website
 ```
 wget https://repo.anaconda.com/archive/Anaconda3-2019.03-MacOSX-x86_64.pkg
 ```
