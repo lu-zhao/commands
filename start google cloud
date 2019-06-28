@@ -1,3 +1,4 @@
+using MAC's terminal
 ```
 ssh lu_zhao@xx.xxx.xx.xxx -L 7999:localhost:7999
 ```
