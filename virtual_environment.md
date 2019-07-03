@@ -1,6 +1,9 @@
 1. transfer to local computer
 ```
-ssh lu_zhao@xx.xxx.xx.xxx -L 7999:localhost:7999
+echo $PATH  
+PATH=/bin:/usr/bin:$PATH  
+export PATH  
+ssh lu_zhao@xx.xxx.xx.xxx -L 7999:localhost:7999  
 ```
 
 2.download anaconda for python3.7 from website
