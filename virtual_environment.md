@@ -1,6 +1,6 @@
 1. transfer to local computer
 ```
-sssh lu_zhao@xx.xxx.xx.xxx -L 7999:localhost:7999
+ssh lu_zhao@xx.xxx.xx.xxx -L 7999:localhost:7999
 ```
 
 2.download anaconda for python3.7 from website
