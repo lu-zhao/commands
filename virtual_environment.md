@@ -38,7 +38,7 @@ pip install ipykernel
 
 8. register the kernel into jupyter notebook
 ```
-python -m ipykernel install --user --<venv name> --display-name "<venv name>"
+python -m ipykernel install --user --name <venv name> --display-name "<venv name>"
 ```
 
 9. check whether pip in inside the virtual environment
